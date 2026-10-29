@@ -1,6 +1,6 @@
 import { rechercherLivres } from "./recherche.js";
 import { filtrerLivres } from "./filtre.js";
-import { afficherCompteur } from "./compteur.js";
+
 
 const books = [
   {
